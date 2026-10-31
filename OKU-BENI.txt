@@ -1,0 +1,11 @@
+Oasis Mostra Paftası 5.0
+
+Bilgisayarda: Mostra-Paftasi.html dosyasını çift tıkla. İnternet gerekmez.
+
+Telefonda (ana ekrana uygulama olarak eklemek ve çevrimdışı kullanmak için):
+1. Bu klasördeki 4 dosyayı birlikte bir https adresine yükle (ör. GitHub Pages, Netlify).
+2. Telefonda adresi bir kez internetle aç.
+3. Tarayıcı menüsünden "Ana ekrana ekle"yi seç.
+Bundan sonra uygulama internetsiz açılır.
+
+Veriler cihazda kalır. Kalıcı kopya için "Kaydet" ile .mostra.json dosyası indir.

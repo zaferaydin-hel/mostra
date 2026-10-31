@@ -1,0 +1,19 @@
+{
+  "name": "Oasis Mostra Paftası",
+  "short_name": "Mostra",
+  "start_url": "./Mostra-Paftasi.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#122637",
+  "theme_color": "#122637",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
